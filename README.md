@@ -4,7 +4,7 @@ A Simple Script written in Bash to Free Up Space
 
 ## Description
 
-Uses rmlint to purge all unused repos and cache.
+Uses a combination of simple pacman commands and rmlint srcipt to purge all unused repos and cache.
 
 ### Installing
 
