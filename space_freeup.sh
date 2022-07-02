@@ -10,5 +10,4 @@ else
 fi
 sudo rm -rf ~/.cache/*
 sudo pacman -S rmlint
-rmlint
 ./rmlint.sh
