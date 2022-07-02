@@ -9,8 +9,8 @@ Uses rmlint to purge all unused repos and cache.
 ### Installing
 
 ```
-- git clone https://github.com/pseudog0d/Arch-Disk-Free-Up-Script.git
-- chmod +x ./space_freeup.sh
+git clone https://github.com/pseudog0d/Arch-Disk-Free-Up-Script.git
+chmod +x ./space_freeup.sh
 ```
 
 ### Executing program
