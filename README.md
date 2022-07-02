@@ -1,4 +1,4 @@
-# Arch Free Up Space
+# Arch Linux Free Up Space
 
 A Simple Script written in Bash to Free Up Space
 
@@ -15,9 +15,6 @@ chmod +x ./space_freeup.sh
 
 ### Executing program
 
-- How to run the program
-- Step-by-step bullets
-
 ```
 ./space_freeup.sh
 ```
@@ -26,6 +23,3 @@ chmod +x ./space_freeup.sh
 
 Any advise for common problems or issues.
 
-```
-command to run if program contains helper info
-```
