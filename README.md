@@ -1,6 +1,6 @@
 # Arch Linux Free Up Space
 
-A Simple Script written in Bash to Free Up Space
+A Simple Script written in Bash to Free Up Space.
 
 ## Description
 
