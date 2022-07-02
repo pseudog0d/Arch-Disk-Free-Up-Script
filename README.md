@@ -18,8 +18,3 @@ chmod +x ./space_freeup.sh
 ```
 ./space_freeup.sh
 ```
-
-## Help
-
-Any advise for common problems or issues.
-
